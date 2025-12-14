@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Dataset (can be re-downloaded)
+data/spa-eng/
+spa-eng.zip
+
+# Logs
+*.log
+
+# Virtual environments
+venv/
+.env/
